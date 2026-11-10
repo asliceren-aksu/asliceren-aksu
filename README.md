@@ -1,9 +1,13 @@
-# Hi, I'm Aslı Ceren 👋
+# Aslı Ceren Aksu
 
-I'm a Statistics student at Middle East Technical University (METU) and serve on the Advisory & Supervisory Board of the METU Statistics & Data Science Society.
+I study Statistics at METU. I enjoy taking a dataset from its first messy pass to a visualization that makes a specific question easier to answer. My coursework spans exploratory analysis in Python and interactive dashboards in Tableau.
 
-- 🔎 **Interests:** Data analysis, statistical modeling, and data visualization
-- 🛠️ **Tools:** R, Python, SQL, Tableau, and Excel
-- 📊 **Featured project:** [STAT 112 Term Project](https://github.com/asliceren-aksu/stat112-term-project) — a Tableau dashboard exploring auto sales and economic indicators
-- 💃 **Outside statistics:** Competitive ballroom dancing and visual design
-- 💬 **Connect:** [LinkedIn](https://www.linkedin.com/in/aslicerenaksu/)
+### Selected coursework
+
+[**STAT 112 · Auto sales and economic indicators**](https://github.com/asliceren-aksu/stat112-term-project) — an interactive Tableau dashboard and a written analysis.
+
+### Beyond the dataset
+
+I serve on the advisory and supervisory board of the METU Statistics & Data Science Society. Outside class, I compete in ballroom dance and enjoy visual design.
+
+[Find me on LinkedIn](https://www.linkedin.com/in/aslicerenaksu/)
