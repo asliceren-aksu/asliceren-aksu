@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Aslı Ceren 👋
 
-<!--
-**assliceren-art/assliceren-art** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Statistics student at Middle East Technical University
 
-Here are some ideas to get you started:
+I'm a Statistics undergraduate at METU in Ankara, Türkiye, interested in data analysis, statistical modeling, and data visualization. I enjoy exploring data and communicating findings through clear, thoughtful visuals.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### My toolkit
+
+- **Programming & data:** R, Python, SQL
+- **Analysis & visualization:** Tableau, Microsoft Excel
+- **Design & communication:** Canva, Adobe After Effects
+
+### Beyond the classroom
+
+I'm involved in the METU Statistics & Data Science Society, where I've led the Career and Promotion & Design committees and now serve on the Advisory & Supervisory Board. My experience includes organizing industry events, coordinating speakers and sponsors, and creating visual content for the student community.
+
+Outside statistics, I'm a competitive ballroom dancer with a love for visual design, reading, and journaling.
+
+### Let's connect
+
+[LinkedIn](https://www.linkedin.com/in/aslicerenaksu/)
